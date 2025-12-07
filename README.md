@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pardeep-shyoran&label=Profile%20views&color=0e75b6&style=flat" alt="pardeep-shyoran" /> </p>
 
-- 👨‍💻 Few of my projects are available at [My Portfolio](https://pardeep-shyoran.vercel.app/)
+- 👨‍💻 Few of my projects are available at [My Portfolio](https://pardeep-shyoran.me/)
 
 - 📫 How to reach me **pardeepsheoran2004@gmail.com**
 
