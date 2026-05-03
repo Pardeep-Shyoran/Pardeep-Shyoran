@@ -1,8 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=230&section=header&text=Pardeep%20Shyoran&fontSize=44&fontColor=70a5fd&fontAlignY=32&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Enthusiast%20%7C%20Problem%20Solver&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<!-- ANIMATED GRADIENT HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,25:4c8ed9,50:70a5fd,75:4c8ed9,100:1a1b27&height=250&section=header&text=Pardeep%20Shyoran&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descSize=16&descColor=c9d1d9&descAlignY=52&animation=twinkling" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=70&lines=MERN+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Scalable+Web+Applications+%F0%9F%8C%90;API-First+%7C+Component-Driven+%7C+Performance-Aware+%E2%9A%A1;Ship+in+Slices%2C+Measure+Impact%2C+Iterate+%F0%9F%94%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=70&lines=MERN+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Scalable+Web+Applications+%F0%9F%8C%90;API-First+%E2%80%A2+Component-Driven+%E2%80%A2+Performance-Aware+%E2%9A%A1;Ship+in+Slices%2C+Measure+Impact%2C+Iterate+%F0%9F%94%81)](https://git.io/typing-svg)
 
 </div>
 
@@ -77,33 +78,113 @@ fun_fact: "I mix coding with humor 😄"
 
 ---
 
-<!-- FEATURED PROJECTS -->
+<!-- ━━━━━━━━━━━━━━━━━ FEATURED PROJECTS ━━━━━━━━━━━━━━━━━ -->
 
 ## 🚀 &nbsp;Featured Projects
 
-<div align="center">
+<!-- PROJECT 1: RIVO -->
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Pardeep-Shyoran/Rivo">
-  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Pardeep-Shyoran&repo=Rivo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" />
-</a>
-<a href="https://github.com/Pardeep-Shyoran/Lite-Insta">
-  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Pardeep-Shyoran&repo=Lite-Insta&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" />
-</a>
-<a href="https://github.com/Pardeep-Shyoran/KodraX">
-  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Pardeep-Shyoran&repo=KodraX&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" />
-</a>
-<a href="https://github.com/Pardeep-Shyoran/E-Commerce">
-  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Pardeep-Shyoran&repo=E-Commerce&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" />
-</a>
-<a href="https://github.com/Pardeep-Shyoran/Windows-11">
-  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Pardeep-Shyoran&repo=Windows-11&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" />
-</a>
-<a href="https://github.com/Pardeep-Shyoran/Moody-Player">
-  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Pardeep-Shyoran&repo=Moody-Player&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" />
-</a>
+### 🎵 &nbsp;Rivo — Music Streaming Platform
+<p>A scalable MERN-based music streaming platform with multi-role access, microservices architecture, JWT auth, RabbitMQ messaging, and AWS S3 cloud storage.</p>
 
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
+<p>
+  <a href="https://github.com/Pardeep-Shyoran/Rivo"><img src="https://img.shields.io/badge/View_Code-70a5fd?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+<td width="50%">
+
+### 📸 &nbsp;Lite-Insta — Social Media App
+<p>A full-stack social media app with user auth, AI-powered caption generator (Gemini API), post CRUD, and real-time features built on the MERN stack.</p>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+
+<p>
+  <a href="https://docs-lite-insta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Pardeep-Shyoran/Lite-Insta"><img src="https://img.shields.io/badge/View_Code-70a5fd?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 &nbsp;E-Commerce — Online Store
+<p>Full-featured e-commerce platform with user login, admin product management, cart system, and secure authentication.</p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+<p>
+  <a href="https://github.com/Pardeep-Shyoran/E-Commerce"><img src="https://img.shields.io/badge/View_Code-70a5fd?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+<td width="50%">
+
+### 🖥️ &nbsp;Windows 11 — Web Clone
+<p>A pixel-perfect recreation of the Windows 11 desktop experience built entirely with web technologies.</p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<p>
+  <a href="https://pardeep-shyoran.github.io/Windows-11/"><img src="https://img.shields.io/badge/Live_Demo-ff6b6b?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/Pardeep-Shyoran/Windows-11"><img src="https://img.shields.io/badge/View_Code-70a5fd?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎧 &nbsp;Moody Player — Mood-Based Music
+<p>Play songs according to your mood — an AI-powered music player that curates playlists based on how you feel.</p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![face-api.js](https://img.shields.io/badge/face--api.js-FF6F61?style=flat-square&logo=tensorflow&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<p>
+  <a href="https://github.com/Pardeep-Shyoran/Moody-Player"><img src="https://img.shields.io/badge/View_Code-70a5fd?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+<td width="50%">
+
+### 💻 &nbsp;KodraX — Dev Platform
+<p>A developer-focused platform built for modern web development workflows and collaboration.</p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+<p>
+  <a href="https://github.com/Pardeep-Shyoran/KodraX"><img src="https://img.shields.io/badge/View_Code-70a5fd?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
+</table>
 <br/>
 
 ---
@@ -202,6 +283,16 @@ fun_fact: "I mix coding with humor 😄"
 
 ---
 
+<!-- ━━━━━━━━━━━━━━━━━ QUOTE ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+### 💡 &nbsp;Dev Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/Pardeep-Shyoran/)
+
+</div>
+
 <!-- QUOTE -->
 
 <div align="center">
@@ -222,14 +313,27 @@ fun_fact: "I mix coding with humor 😄"
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pardeep-Shyoran&style=for-the-badge&color=0d1117&labelColor=1a1b27&label=PROFILE+VIEWS" />
-</div>
+
 
 <div align="center">
-  
-  ⭐ *If you like my work, consider giving a star to my repositories!*
-  
+  <img src="https://komarev.com/ghpvc/?username=Pardeep-Shyoran&style=for-the-badge&color=70a5fd&labelColor=1a1b27&label=PROFILE+VIEWS" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pardeep-Shyoran?tab=followers">
+    <img src="https://img.shields.io/github/followers/Pardeep-Shyoran?style=for-the-badge&color=70a5fd&labelColor=1a1b27&label=FOLLOWERS" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pardeep-Shyoran?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOS-28+-70a5fd?style=for-the-badge&labelColor=1a1b27" />
+  </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" />
+<br/>
+
+<div align="center">
+  <b>⭐ If you like my work, consider giving a star to my repositories!</b>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,25:4c8ed9,50:70a5fd,75:4c8ed9,100:1a1b27&height=120&section=footer" />
+
