@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=70&lines=MERN+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Scalable+Web+Applications+%F0%9F%8C%90;API-First+%E2%80%A2+Component-Driven+%E2%80%A2+Performance-Aware+%E2%9A%A1;Ship+in+Slices%2C+Measure+Impact%2C+Iterate+%F0%9F%94%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=70&lines=MERN+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Scalable+Web+Applications+%F0%9F%8C%90;API-First+%E2%80%A2+Component-Driven+%E2%80%A2+Performance-Aware+%E2%9A%A1;Ship+in+Slices%2C+Measure+Impact%2C+Iterate+%F0%9F%94%81)]([https://git.io/typing-svg](https://github.com/Pardeep-Shyoran))
 
 </div>
 
