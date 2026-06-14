@@ -214,17 +214,6 @@ fun_fact: "I mix coding with humor 😄"
 
 ---
 
-<!-- TROPHIES -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Pardeep-Shyoran&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
-</div>
-
-<br/>
-
----
 
 <!-- ACTIVITY GRAPH -->
 
